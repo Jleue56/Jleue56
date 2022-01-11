@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hey, I'm Jake!
+#### I attend UC Irvine and study Computer Science 🖥️
+-  I love sports, video games, and spending time with my family
+-  I am a recently transferred student coming from Long Beach Community College
+    - With that said, I have a ***lot*** to learn and I'm looking for any opportunity I can to  grow my skillset!
+- You can find me here on [Linkedin](http://www.linkedin.com/in/jake-leue/ "linkedin")! Feel free to connect with me 😄
+
+![128px-The_University_of_California_Irvine svg](https://user-images.githubusercontent.com/46519858/148878672-2051bb7e-7bc8-44c2-b284-3ed6f5da6135.png)
 
 <!--
 **Jleue56/Jleue56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
